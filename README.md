@@ -1,1 +1,2 @@
 # Odin-recipes
+In this project I will show my knowledge on how well I understand HTML, and that I know how to manouvre and connect it with Github. I will also show my knowledge with Git. In this little project we will be creating recipes. Enjoy my work. 
