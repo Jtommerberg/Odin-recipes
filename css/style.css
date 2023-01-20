@@ -1,0 +1,26 @@
+* {
+  color: rgb(35, 138, 116);
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1,
+a span {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: medium solid rgb(255, 7, 7);
+  border-radius: 50%;
+  padding: 2rem;
+}
+h1 {
+  font-size: 6rem;
+}
+a {
+  font-size: 2rem;
+}
+a span {
+  display:block;
+  text-align: center;
+}
